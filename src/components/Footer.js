@@ -8,7 +8,7 @@ const Footer = () => {
         <img src={Logo} alt="logo" width="100px" height="40px" />
         <Typography variant="h5" pb="20px" mt="20px">
           Made with ❤️ by{" "}
-          <a href="https://github.com/Prince-Codemon" style={{color:'#ff2526'}}>Prince Codemon</a>
+          <a href="https://github.com/Prince-Codemon" style={{color:'#ff2526'}} target="_blank" rel="noreferrer">Prince Codemon</a>
         </Typography>
         <Typography variant="h5" pb="40px" mt="10px">
           Credit and love to ❤️‍🔥 Javascript Mastery
